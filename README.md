@@ -10,3 +10,6 @@ So far my team is small - just 1 person, but I'm willing to work with you!
 
 ## Setup & Requirements
 This project requiers a computer and internet.
+
+## New Section
+This is a new section in the branch new-readme
